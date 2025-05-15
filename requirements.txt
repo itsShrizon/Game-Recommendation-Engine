@@ -1,0 +1,6 @@
+streamlit==1.37.1
+transformers==4.31.0
+torch==2.0.1
+numpy==1.26.0
+pandas==2.2.2
+scikit-learn==1.5.1

@@ -1,0 +1,7 @@
+venv/
+data/raw/steam_games.csv
+.ipynb_checkpoints
+EDA.ipynb
+bert_item_feature_matrix.npy
+filtered_games_df.csv
+filtered_reviews_df.csv
